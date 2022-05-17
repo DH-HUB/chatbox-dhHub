@@ -1,2 +1,2 @@
 ﻿# chatbox-dhHub
-ANGULAR
+Projet création d'une Chatbox avec Angular
